@@ -12,5 +12,5 @@ Need help? Please read [the documentation](http://doc.inkdrop.info/) and [FAQ](h
 
 # TODO list
 
-The functionality and plugin ideas are listed [here](https://github.com/inkdropapp/forum/projects).
+The functionalities currently working on are managed on [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1910393).
 Check out before you make a post.
