@@ -8,9 +8,13 @@ Include following information in your bug report:
  * Your environment (macOS/Windows/Linux) and its version.
  * Steps to reproduce if possible
 
-Need help? Please read [the documentation](http://doc.inkdrop.info/) and [FAQ](http://doc.inkdrop.info/faq).
+Need help? Please read [the documentation](https://doc.inkdrop.info/) and [FAQ](https://doc.inkdrop.info/faq).
+If you have a problem related to your account, please send an email [here](mailto:contact@inkdrop.info).
 
-# TODO list
+## Roadmap
 
-The functionalities currently working on are managed on [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1910393).
-Check out before you make a post.
+I'm working hard on improving the app and I put my efforts where it will have the most impact on the user, in terms of features.
+If you are curious about what features are being developed now, please read following blog entry for the current roadmap: https://blog.inkdrop.info/the-future-work-of-inkdrop-8c50c4e06e6c
+As the roadmap shows, I cannot answer questions regarding other features like 'Do you have plans to support ******xxx?'.
+But please don't hesitate to suggest your idea!
+Your thoughts will let me know how important it is for users :)
