@@ -1,3 +1,9 @@
+# OUR FORUM IS MOVED
+
+Please visit our new forum here:
+
+https://forum.inkdrop.info/
+
 # Inkdrop User Forum
 
 Please report issue or suggest feedback here.
