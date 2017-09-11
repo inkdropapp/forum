@@ -1,4 +1,4 @@
-# OUR FORUM IS MOVED
+# OUR FORUM HAS BEEN MOVED
 
 Please visit our new forum here:
 
